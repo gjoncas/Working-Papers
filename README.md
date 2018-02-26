@@ -1,6 +1,6 @@
-# Working-Papers
+# Working Papers
 
-<b>Working papers</b>
+<b>Papers</b>
 <br>‘Patatime (<a href="https://github.com/gjoncas/Working-Papers/blob/master/patatime.pdf">2017</a>)
 <br>Lacan on the Number 13 and the Logic of Suspicion (<a href="https://github.com/gjoncas/Working-Papers/blob/master/thirteen.pdf">2017</a>)
 <br>Pataphor in Mechanism Design (<a href="https://github.com/gjoncas/Working-Papers/blob/master/pataphor.pdf">2017</a>)
