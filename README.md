@@ -18,3 +18,8 @@
 <b>Translations</b>
 <br>于尔·阿拉米切克 - 《光荣的死亡</a>》 [<a href="https://github.com/gjoncas/Working-Papers/blob/master/%E5%85%89%E8%8D%A3%E7%9A%84%E6%AD%BB%E4%BA%A1.pdf">Uel Aramchek</a>]
 <br>奥斯卡·王尔德 - 《水仙》 [<a href="https://github.com/gjoncas/Working-Papers/blob/master/%E6%B0%B4%E4%BB%99.pdf">Oscar Wilde</a>]
+
+<br> 
+
+<b>Reviews by Others</b>
+<br>Capener, S. (2017). “Exogeneity and Control.” <i>Rhizomes</i> 31. Retrieved from https://doi.org/10.20415/rhiz/031.e03
