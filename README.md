@@ -3,7 +3,7 @@
 <b>Papers</b>
 <br>Science Fiction and Hyperchaos: Digital Humanities as Extro-Criticism (2018)
 <br>‘Patatime (<a href="https://github.com/gjoncas/Working-Papers/blob/master/patatime.pdf">2017</a>)
-<br>Lacan on the Number 13 and the Logic of Suspicion (<a href="https://github.com/gjoncas/Working-Papers/blob/master/thirteen.pdf">2017</a>)
+<br>Algorithmic Psychoanalysis: Lacan’s Logic of Suspicion (<a href="https://github.com/gjoncas/Working-Papers/blob/master/thirteen.pdf">2017</a>)
 <br>Pataphor in Mechanism Design (<a href="https://github.com/gjoncas/Working-Papers/blob/master/pataphor.pdf">2017</a>)
 <br>Chinese Logic: An Introduction (<a href="https://github.com/gjoncas/Working-Papers/blob/master/chinese%20logic.pdf">2017</a>) (<a href="https://github.com/gjoncas/Working-Papers/blob/master/%E4%B8%AD%E5%9B%BD%E9%80%BB%E8%BE%91.pdf">中文</a>)
 <br>Combinatorial Game Theory: Surreal Numbers and the Void (<a href="https://github.com/gjoncas/Working-Papers/blob/master/combinatorial%20games.pdf">2016</a>)
